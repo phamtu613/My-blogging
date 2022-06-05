@@ -143,14 +143,14 @@ const PostDetailsPage = () => {
               <h1 className="post-heading">{postInfo.title}</h1>
               <PostMeta></PostMeta>
               {/* Check if user role is ADMIN then can edit the post */}
-              {userInfo.role === userRole.ADMIN && (
+              {/* {userInfo.role === userRole.ADMIN && (
                 <Link
                   to={`/manage/update-post?id=${postInfo.id}`}
                   className="inline-block px-4 py-2 mt-5 text-sm border border-gray-400 rounded-md"
                 >
                   Edit post
                 </Link>
-              )}
+              )} */}
             </div>
           </div>
           <div className="post-content">
