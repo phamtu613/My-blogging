@@ -1,0 +1,13 @@
+{
+  "build": {
+    "env": {
+      "REACT_APP_FIREBASE_API_KEY": "AIzaSyCEjVwTmMd01gzE7o83LEc2WTUs-skLU0M",
+      "REACT_APP_FIREBASE_AUTH_DOMAIN": "monkey-blogging-3b1c0.firebaseapp.com",
+      "REACT_APP_FIREBASE_PROJECT_ID": "monkey-blogging-3b1c0",
+      "REACT_APP_FIREBASE_STORAGE": "monkey-blogging-3b1c0.appspot.com",
+      "REACT_APP_FIREBASE_SENDER_ID": "730074993361",
+      "REACT_APP_FIREBASE_APP_ID": "1:730074993361:web:28eddbfd2507db97826bf0",
+      "REACT_APP_IMGBB_KEY": "793a15263ea23ad113b7cd1e8429dda1"
+    }
+  }
+}
